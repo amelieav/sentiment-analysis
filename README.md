@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment Analysis Discord Bot
 This sentiment analysis discord bot uses the https://www.npmjs.com/package/sentiment library.
 
 Current features:
