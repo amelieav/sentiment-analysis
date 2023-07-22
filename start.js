@@ -1,6 +1,5 @@
 // https://www.npmjs.com/package/sentiment
 
-
 let arrayOfPhrases = ["hello I am super excited", "I am so fucking mad", "I don't really feel anything"]
 
 var Sentiment = require('sentiment');
